@@ -1,0 +1,30 @@
+_repo: The-Delinquent-Vol-IV-No-7-July-1914_73487
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2024-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73487'
+language: en
+pgterms:marc905: 20161102063041various
+pgterms:marc906: Various
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aNew York :$bNational Prisoners'' Aid Association, $cVarious.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Delinquent, Vol. IV, No. 7, July, 1914
+url: http://www.gutenberg.org/ebooks/73487
